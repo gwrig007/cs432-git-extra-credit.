@@ -1,1 +1,3 @@
 I am practicing Git and GitHub for CS432.
+
+I edited this file on GitHub and will pull the update to my computer.
